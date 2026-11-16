@@ -19,6 +19,11 @@ conversations/
 # Original datasets
 data_actual/
 
+# Data files
+data/*.pdf
+data/*.docx
+data/*.xlsx
+
 # Generated files
 image_embeddings.npy
 image_manifest.json
