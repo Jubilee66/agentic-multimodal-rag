@@ -1,0 +1,14 @@
+streamlit
+chromadb
+sentence-transformers
+langchain
+langchain-core
+langchain-groq
+pymupdf
+python-docx
+pandas
+openpyxl
+numpy
+torch
+transformers
+tqdm

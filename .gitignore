@@ -1,0 +1,33 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Vector databases
+chroma_db_txt/
+chroma_db_img/
+graph_db/
+text_db/
+image_db/
+
+# Conversations
+conversations/
+
+# Original datasets
+data_actual/
+
+# Generated files
+image_embeddings.npy
+image_manifest.json
+image_captions.json
+
+# Extracted images
+data/extracted_images/
+data/extracted_images1/
+
+# OS files
+Thumbs.db
+.DS_Store
